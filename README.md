@@ -9,11 +9,7 @@
 * PHP
 * Xampp Server
 * MySQL
-## This are some Outputs of the Project:
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+  
+## This is link to the page:
+
 
