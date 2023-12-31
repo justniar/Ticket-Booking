@@ -1,0 +1,85 @@
+.btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+  }
+  .btn:hover, .btn:focus {
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
+  }
+  .modal-header, h4, .close {
+    background-color: #333;
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+  }
+  .modal-header, .modal-body {
+    padding: 40px 50px;
+  }
+  .nav-tabs li a {
+    color: #F0F0F0
+  }
+ 
+   .navvvvvvbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #161A30;
+    border: 0;
+    font-size: 40px !important;
+    letter-spacing: 4px;
+    opacity: 2;
+    padding: 37px;
+    text-align: center;
+    color:white;
+    font-weight: 40000;
+    border-radius: 0;  
+}
+   
+    h1 {
+          font-family: Montserrat, sans-serif;
+
+    }
+
+  
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #161A30;
+    border: 0;
+    font-size: 14px !important;
+    letter-spacing: 2px;
+    opacity: 5;
+    padding: 10px;
+    border-radius: 0;  
+    box-shadow: 3px 3px 3px rgba(178,178,180);
+  }
+  
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+  }
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  .open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+  }
+  .dropdown-menu li a {
+    color: #000 !important;
+  }
+  .dropdown-menu li a:hover {
+    background-color: red !important;
+  }
+ 
+  body{
+  }
